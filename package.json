@@ -1,5 +1,6 @@
 {
 	"name": "datatables-responsive",
+	"version": "2.2.3",
 	"main": [
 		"js/dataTables.responsive.js",
 		"css/responsive.dataTables.scss"
